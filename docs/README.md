@@ -46,10 +46,15 @@
     - [ ] Windows Terminal [^windows-terminal]
     - [ ] Windows Subsystem for Linux
 - 开发工具：
+    - autogen [^autogen]
+        - [ ] autoopts
     - cflow [^cflow]
     - doxygen [^doxygen]
         - graphviz
         - qt6-base
+    - syslog[^syslog]
+    - bind9 [^bind9]
+        - libisc
 
 ## References
 
@@ -58,3 +63,6 @@
 [^vm-tools]: https://wiki.archlinux.org/title/VMware/Install_Arch_Linux_as_a_guest
 [^cflow]: https://www.gnu.org/software/cflow/
 [^doxygen]: https://www.doxygen.nl/
+[^autogen]: https://www.gnu.org/software/autogen/
+[^syslog]: https://www.man7.org/linux/man-pages/man3/syslog.3.html
+[^bind]: https://gitlab.isc.org/isc-projects/bind9
