@@ -45,9 +45,16 @@
         - [ ] oh-my-zsh
     - [ ] Windows Terminal [^windows-terminal]
     - [ ] Windows Subsystem for Linux
+- 开发工具：
+    - cflow [^cflow]
+    - doxygen [^doxygen]
+        - graphviz
+        - qt6-base
 
 ## References
 
 [^bfsu_mirrors]: https://mirrors.bfsu.edu.cn/archlinux/
 [^windows-terminal]: https://github.com/microsoft/terminal
 [^vm-tools]: https://wiki.archlinux.org/title/VMware/Install_Arch_Linux_as_a_guest
+[^cflow]: https://www.gnu.org/software/cflow/
+[^doxygen]: https://www.doxygen.nl/
