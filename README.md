@@ -46,8 +46,9 @@
 - flathub
 - sudo
 - zsh
-    - [ ] zsh
-    - [ ] oh-my-zsh
+    - [x] zsh
+    - [x] oh-my-zsh
+    - [x] powerlevel10k
 - [ ] Windows Terminal [^windows-terminal]
 - [ ] Windows Subsystem for Linux
 
