@@ -40,8 +40,9 @@
     - [x] fcitx5-chinese-addons
     - [x] fcitx5-configtool
 - ssh：
-    - [ ] 免密登录
-    - [ ] RSA 密码原理
+    - [x] 免密登录
+    - [ ] RSA原理
+    - [ ] 椭圆曲线密码学
 - pacman
 - flathub
 - sudo
