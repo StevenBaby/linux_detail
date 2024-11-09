@@ -7,13 +7,13 @@
 ## 安装配置
 - VMWare:
     - [x] 显示缩放比例
-    - [ ] 快照和挂起
+    - [x] 快照和挂起
     - [ ] CPU 虚拟化模式
     - [ ] UEFI
     - [x] open-vm-tools [^vm-tools]
     - [x] gtkmm3
 - 镜像地址：
-    - [ ] [北京外国语大学镜像站](https://mirrors.bfsu.edu.cn/archlinux/) [^bfsu_mirrors]
+    - [x] [北京外国语大学镜像站](https://mirrors.bfsu.edu.cn/archlinux/) [^bfsu_mirrors]
 - grub:
     - [x] 启动超时修改
 - gnome:
