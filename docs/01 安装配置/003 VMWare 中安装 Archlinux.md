@@ -27,7 +27,11 @@
 
 > https://archlinux.org/mirrorlist/
 
-安装 wget：
+下载 mirrorlist:
+
+    curl -o /etc/pacman.d/mirrorlist "https://archlinux.org/mirrorlist/?country=CN&protocol=https&ip_version=4"
+
+或者，安装 wget，然后再下载 mirrorlist：
 
     pacman -S wget
 
