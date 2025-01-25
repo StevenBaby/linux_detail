@@ -4,6 +4,30 @@
 
 > https://github.com/StevenBaby/linux_detail
 
+## 项目规划及进度
+
+```mermaid
+timeline
+    title 项目规划及进度
+    2024 安装配置
+    : VMWare
+    : Archlinux(Gnome)
+    : zsh / ssh / WSL2
+    : VSCode
+    2024 文档编辑
+    : Markdown
+    : Latex
+    : Mermaid
+    : drawio
+    2025 基础概念 
+    : 控制系统
+    : 物理系统
+    : **信息系统**
+    : **生命系统**
+    : **计算机系统**
+    : **文件系统**
+```
+
 ## 安装配置
 - VMWare:
     - [x] 显示缩放比例
