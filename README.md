@@ -7,13 +7,29 @@
 ## 项目规划及进度
 
 ```mermaid
-timeline
+kanban
+  [2024 安装配置]
+    [VMWare]
+    [Archlinux / Gnome]
+    [zsh / ssh / WSL2]
+    [VSCode]
+  [2024 文档编辑]
+    [Markdown]
+    [Latex]
+    [Mermaid]
+    [drawio]
+  [2025 基础概念]
+    [控制系统]
+    [物理系统]
+    [**信息系统**]@{assigned: coming soon, priority: 'Very High' }
+    [**生命系统**]@{priority: 'High' }
+    [**计算机系统**]@{priority: 'High' }
+    [**文件系统**]@{priority: 'High' }
+```
+kanban
     title 项目规划及进度
-    2024 安装配置
-    : VMWare
-    : Archlinux(Gnome)
-    : zsh / ssh / WSL2
-    : VSCode
+    
+    : 
     2024 文档编辑
     : Markdown
     : Latex
@@ -26,8 +42,6 @@ timeline
     : **生命系统**
     : **计算机系统**
     : **文件系统**
-```
-
 ## 安装配置
 - VMWare:
     - [x] 显示缩放比例
